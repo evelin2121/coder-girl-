@@ -1,0 +1,57 @@
+header { margin-bottom: -20px;}
+
+
+.foto { 
+	background-image: url(../img/home.jpg);
+	height: 660px;
+  }
+
+h1 {padding-top: 20%;
+    color: #FFFBEF}  
+
+h2 { 
+	font-size: 2em;
+	padding: 5%;
+} 
+h5 { padding-bottom: 3%} 
+
+.fondo { 
+	background-color: #F4FF65;
+    height: 500px;
+    padding-top: 5%;} 
+.uno { 
+	width: 520px;
+    height: 300px;
+	} 
+
+h3 { padding-top: 30px;}
+
+.dos { 
+	height: 300px;
+	padding-top: 20px; 
+
+}
+.parra { margin: -1%;}
+
+form { padding-top: 10px;}
+
+.enviar { padding-top: 10px;}
+
+.blanco { 
+	background-color: #EDFFDB;
+	height: 550px;
+}
+
+.fin {
+       background-color: #0BBFCD;
+        height: 80px;
+}
+.texto { 
+	padding-top: 30px;
+    padding-left: 100px;}
+
+.color { color: #CDB037;}    
+
+
+
+
